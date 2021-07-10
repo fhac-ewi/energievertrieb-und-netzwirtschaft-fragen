@@ -26,6 +26,12 @@ TODO
 </td></tr></table>
 </details>
 
+## Netzentgelte
+Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Netzentgelte/Fragen%20aus%20Vorlesung.md).
+
+</td></tr></table>
+</details>
 
 
-Generiert am Sat Jul 10 10:12:26 UTC 2021
+
+Generiert am Sat Jul 10 10:12:45 UTC 2021
