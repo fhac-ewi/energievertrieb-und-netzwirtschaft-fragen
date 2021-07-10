@@ -117,7 +117,59 @@ TODO
 
 ## Netzentgelte
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Netzentgelte/Fragen%20aus%20Vorlesung.md).
+<details><summary><b>Warum sind die Netzentgelte regional so heterogen?</b></summary>
+<table><tr><td>
 
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Warum sind diese in den letzten Jahren wieder gestiegen?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist der Grundgedanke der Netzentgeltsystematik?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie werden die Netzkosten aktuell allokiert?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche alternativen zur aktuellen Netzentgeltsystematik kennen Sie?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Werden die Netzkosten aus Ihrer Sicht aktuell verursachungsgerecht verteilt?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Warum wird zwischen Arbeits- und Leistungspreis differenziert?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie kurz, was unter dem Begriff Entsolidarisierung in der Netzentgeltsystematik zu verstehen ist und was sind Möglichkeit dieser Entwicklung entgegenzuwirken?</b></summary>
+<table><tr><td>
+
+TODO
 </td></tr></table>
 </details>
 
@@ -150,4 +202,4 @@ TODO
 
 
 
-Generiert am Sat Jul 10 10:29:10 UTC 2021
+Generiert am Sat Jul 10 10:31:20 UTC 2021
