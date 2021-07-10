@@ -92,6 +92,17 @@ TODO
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GECK](./Fragenkatalog/00%20Netzzugang/Fragen%20von%20GECK.md).
+<details><summary><b>Wie viele Übertragungsnetzbetreiber und Verteilnetzbetreiber gibt es?</b></summary>
+<table><tr><td>
+
+- 4 Übertragungsnetzbetreiber
+- 800 Verteilnetzbetreiber
+
+(zu F 1 - 8)
+</td></tr></table>
+</details>
+
 ## Regulierungstheorie
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Regulierungstheorie/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Was sind die zwei Hauptcharakteristika natürlicher Monopole? Erläutern Sie diese.</b></summary>
@@ -202,4 +213,4 @@ TODO
 
 
 
-Generiert am Sat Jul 10 10:31:20 UTC 2021
+Generiert am Sat Jul 10 10:47:39 UTC 2021
