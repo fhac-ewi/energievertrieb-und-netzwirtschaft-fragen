@@ -41,6 +41,15 @@ TODO
 </td></tr></table>
 </details>
 
+## Portfoliomanagement
+Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Portfoliomanagement/Fragen%20aus%20Vorlesung.md).
+<details><summary><b>Beispielfrage</b></summary>
+<table><tr><td>
+
+TODO
+</td></tr></table>
+</details>
 
 
-Generiert am Sat Jul 10 10:12:59 UTC 2021
+
+Generiert am Sat Jul 10 10:13:19 UTC 2021
