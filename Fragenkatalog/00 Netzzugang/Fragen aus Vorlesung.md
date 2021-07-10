@@ -24,3 +24,15 @@ TODO
 
 # Erläutern Sie wie sich Smart Meter auf die Bilanzierung von Haushaltskunden auswirken können.
 TODO
+
+# Wie würden Sie die Marktkommunikation einem Ahnungslosen dritten beschreiben? 
+TODO
+
+# Warum ist diese so wichtig für ein funktionierendes Gesamtsystem?
+TODO
+
+# Wie hat sich die Marktkommunikation in der Vergangenheit entwickelt?
+TODO
+
+# Welche Herausforderungen begegnet die Marktkommunikation in Zukunft?
+TODO
