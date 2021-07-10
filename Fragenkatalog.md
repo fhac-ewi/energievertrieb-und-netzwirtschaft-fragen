@@ -255,6 +255,36 @@ TODO Was ist damit gemein?
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen von GECK](./Fragenkatalog/01%20Regulierungstheorie/Fragen%20von%20GECK.md).
+<details><summary><b>Wieso braucht es Regulierung überhaupt?</b></summary>
+<table><tr><td>
+
+Netzbetreiber haben Monopolstellung. Dies ist grundsätzlich erstmal schlecht, aber nicht vermeidbar. Interner Anteil für Optimierung, Weiterentwicklung und Kostensenkung fehlt. Deshalb gibt es die Anzeizoptimierung.
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie funktioniert Anreizregulierung?</b></summary>
+<table><tr><td>
+
+Früher:
+**Obergrenze für Erlöse**
+- Interne Kostenschätzung
+- Bundesweiter Effizienzvergleich (mit anderen Netzbetreibern)
+- Effizienz verbessert sich jährlich -> Netzbetreiber müssen mitziehen
+
+Heute:
+**Regulierungsperioden**
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind Regulierungsperioden?</b></summary>
+<table><tr><td>
+
+Ein Zeitraum von 5 Jahren. Netzbetreiber muss Kosten/Planungen offen legen und diese von einem Wirtschaftsprüfung orüfen lassen. (Basisjahr) Dadurch werden die Netzentgelte bestimmt. 
+Weicht der Gewinn vom Netzbetreiber stark (größer 5 Prozent) von dem geplanten Erlös ab, kann nachreguliert werden und die Netzkosten auch in der Periode angepasst werden.
+</td></tr></table>
+</details>
+
 ## Netzentgelte
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/02%20Netzentgelte/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Warum sind die Netzentgelte regional so heterogen?</b></summary>
@@ -342,4 +372,4 @@ TODO
 
 
 
-Generiert am Sat Jul 10 14:36:17 UTC 2021
+Generiert am Sat Jul 10 15:05:11 UTC 2021
