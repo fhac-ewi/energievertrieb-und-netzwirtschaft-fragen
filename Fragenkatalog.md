@@ -61,6 +61,34 @@ TODO
 <table><tr><td>
 
 TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie würden Sie die Marktkommunikation einem Ahnungslosen dritten beschreiben? </b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Warum ist diese so wichtig für ein funktionierendes Gesamtsystem?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie hat sich die Marktkommunikation in der Vergangenheit entwickelt?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Herausforderungen begegnet die Marktkommunikation in Zukunft?</b></summary>
+<table><tr><td>
+
+TODO
 </td></tr></table>
 </details>
 
@@ -108,4 +136,4 @@ TODO
 
 
 
-Generiert am Sat Jul 10 10:24:14 UTC 2021
+Generiert am Sat Jul 10 10:25:26 UTC 2021
