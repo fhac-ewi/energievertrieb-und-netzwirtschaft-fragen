@@ -94,7 +94,21 @@ TODO
 
 ## Regulierungstheorie
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/01%20Regulierungstheorie/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
+<details><summary><b>Was sind die zwei Hauptcharakteristika natürlicher Monopole? Erläutern Sie diese.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist Regulierung und welche Ziele werden dabei verfolgt?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Gestaltungsmöglichkeiten bestehen im Rahmen der Regulierung und wann spricht man von Überregulierung?</b></summary>
 <table><tr><td>
 
 TODO
@@ -136,4 +150,4 @@ TODO
 
 
 
-Generiert am Sat Jul 10 10:25:26 UTC 2021
+Generiert am Sat Jul 10 10:29:10 UTC 2021
