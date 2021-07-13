@@ -1,5 +1,7 @@
 # Welche Eigenschaften haben die Energielieferprodukte? Gehen Sie auf Mengen- und Preisstrukturen in den Lieferverträgen ein.
 
+F 6 - 14 und 16
+
 # Charakterisieren Sie den Markt für Energielieferprodukte hinsichtlich seiner Kundenstruktur und der Wettbewerbsintensität.
 - Wir unterscheiden zwischen Groß- und Kleinkunden.
 - Großkunden
