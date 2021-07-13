@@ -409,6 +409,83 @@ TODO
 </td></tr></table>
 </details>
 
+## Energievertrieb
+Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/06%20Energievertrieb/Fragen%20aus%20der%20Vorlesung.md).
+<details><summary><b>Welche Eigenschaften haben die Energielieferprodukte? Gehen Sie auf Mengen- und Preisstrukturen in den Lieferverträgen ein.</b></summary>
+<table><tr><td>
 
 
-Generiert am Sun Jul 11 09:18:04 UTC 2021
+</td></tr></table>
+</details>
+<details><summary><b>Charakterisieren Sie den Markt für Energielieferprodukte hinsichtlich seiner Kundenstruktur und der Wettbewerbsintensität.</b></summary>
+<table><tr><td>
+
+- Wir unterscheiden zwischen Groß- und Kleinkunden.
+- Großkunden
+  - Wechseln häufig die Verträge (Ausschreibung von Strom)
+  - Preissensitiv
+  - Intensiverer Kostenwettbewerb -> höhere Preissensitivität
+- Kleinkunden
+  - Inhomogen: können Preissensitiv aber auch Preisressistent sein
+  - Informieren sich (idealerweise ein mal im Jahr)
+  
+</td></tr></table>
+</details>
+<details><summary><b>Sie sind verantwortlich für die Produktpolitik einer Firma. Was ist Produktdifferenzierung? Worauf achten Sie im Rahmen Ihrer Produktpolitik?</b></summary>
+<table><tr><td>
+
+- Produktdifferenzierung: Abgrenzung des Produktes zum Mittwettbewerb (neues Verkaufsargument)
+- Produktpolitik: 
+  - Motiv des Kunden finden
+  - Was haben die Wettbewerber
+  - Welchen Mehrwert kann ich dem Kunden liefern
+  - [ ] Preis (Zahlungsbereitschaft der Kunden >  Preis > Kosten)
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist Preisdifferenzierung? Beschreiben Sie zusätzlich Möglichkeiten der Preisdifferenzierung. Was müssen Sie hierfür vorbereiten?</b></summary>
+<table><tr><td>
+
+Preisdifferenzierung: Anbieter legen keinen einheitlichen Verkaufspreis fest.
+- Zeit (Tag/Nachttarife, Sommertarife)
+- Region (Im Verteilnetzgebiet)
+- Menge (Grundpreis / Arbeitspreis)
+- Kundengruppen 
+  - Privat: weiter diff.: z.B. Studenten
+  - Gewerblich
+  - Industriell
+- Was müssen sie hierfür vorbereiten?
+  - Einkaufspreis 
+  - Transferpreis 
+  - Selbstkostenpreis
+  - Verkaufspreis
+F.6-36, 6-33
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Vertriebskanäle existieren grundsätzlich? Sie wollen Energielieferprodukte an folgende Kunden verkaufen. Differenzieren Sie die dafür sinnvollen Kanäle</b></summary>
+<table><tr><td>
+
+1. Kleinkunden – Haushalte, Dienstleistungsunternehmen, kleine Gewerbekunden
+  - Onlineplattformen
+  - Direktvertrieb über eigene MA
+  - Call-Center
+  - etc.
+  - F.6-37
+2. Großkunden – großes Gewerbe und Industriekunden
+  - Ausschreibung
+  - Direktvertrieb über eigene MA
+
+</td></tr></table>
+</details>
+<details><summary><b>Diskutieren Sie aufbauorganisatorische Möglichkeiten zur Gestaltung des Energievertriebs.</b></summary>
+<table><tr><td>
+
+Je nach Organisationsstruktur kann man Marketing und Vertrieb zusammenschließen oder voneinander trennen.
+F.6-40/41/43
+</td></tr></table>
+</details>
+
+
+
+Generiert am Tue Jul 13 15:15:56 UTC 2021
