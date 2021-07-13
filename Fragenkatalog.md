@@ -415,6 +415,8 @@ Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/06%20Energievert
 <table><tr><td>
 
 
+F 6 - 14 und 16
+
 </td></tr></table>
 </details>
 <details><summary><b>Charakterisieren Sie den Markt für Energielieferprodukte hinsichtlich seiner Kundenstruktur und der Wettbewerbsintensität.</b></summary>
@@ -488,4 +490,4 @@ F.6-40/41/43
 
 
 
-Generiert am Tue Jul 13 15:16:15 UTC 2021
+Generiert am Tue Jul 13 19:49:05 UTC 2021
