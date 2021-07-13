@@ -439,7 +439,7 @@ Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/06%20Energievert
   - Motiv des Kunden finden
   - Was haben die Wettbewerber
   - Welchen Mehrwert kann ich dem Kunden liefern
-  - [ ] Preis (Zahlungsbereitschaft der Kunden >  Preis > Kosten)
+  - Preis (Zahlungsbereitschaft der Kunden >  Preis > Kosten)
 
 </td></tr></table>
 </details>
@@ -488,4 +488,4 @@ F.6-40/41/43
 
 
 
-Generiert am Tue Jul 13 15:15:56 UTC 2021
+Generiert am Tue Jul 13 15:16:15 UTC 2021
