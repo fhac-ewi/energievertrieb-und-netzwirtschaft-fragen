@@ -382,15 +382,6 @@ Man könnte dem Prozess entgegen wirken, indem die Eigenversorger, unabhängig d
 </td></tr></table>
 </details>
 
-## Energievertrieb
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/03%20Energievertrieb/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
-<table><tr><td>
-
-TODO
-</td></tr></table>
-</details>
-
 ## Portfoliomanagement
 Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Portfoliomanagement/Fragen%20aus%20Vorlesung.md).
 <details><summary><b>Beispielfrage</b></summary>
@@ -490,4 +481,4 @@ F.6-40/41/43
 
 
 
-Generiert am Tue Jul 13 19:49:05 UTC 2021
+Generiert am Tue Jul 13 21:24:10 UTC 2021
