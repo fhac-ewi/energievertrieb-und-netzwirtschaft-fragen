@@ -16,7 +16,7 @@
   - Motiv des Kunden finden
   - Was haben die Wettbewerber
   - Welchen Mehrwert kann ich dem Kunden liefern
-  - [ ] Preis (Zahlungsbereitschaft der Kunden >  Preis > Kosten)
+  - Preis (Zahlungsbereitschaft der Kunden >  Preis > Kosten)
 
 # Was ist Preisdifferenzierung? Beschreiben Sie zusätzlich Möglichkeiten der Preisdifferenzierung. Was müssen Sie hierfür vorbereiten?
 Preisdifferenzierung: Anbieter legen keinen einheitlichen Verkaufspreis fest.
