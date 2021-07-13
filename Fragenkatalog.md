@@ -382,26 +382,8 @@ Man könnte dem Prozess entgegen wirken, indem die Eigenversorger, unabhängig d
 </td></tr></table>
 </details>
 
-## Portfoliomanagement
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Portfoliomanagement/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
-<table><tr><td>
-
-TODO
-</td></tr></table>
-</details>
-
-## Beschaffungsportfoliomanagement
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Beschaffungsportfoliomanagement/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
-<table><tr><td>
-
-TODO
-</td></tr></table>
-</details>
-
 ## Energievertrieb
-Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/06%20Energievertrieb/Fragen%20aus%20der%20Vorlesung.md).
+Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/03%20Energievertrieb/Fragen%20aus%20der%20Vorlesung.md).
 <details><summary><b>Welche Eigenschaften haben die Energielieferprodukte? Gehen Sie auf Mengen- und Preisstrukturen in den Lieferverträgen ein.</b></summary>
 <table><tr><td>
 
@@ -479,6 +461,24 @@ F.6-40/41/43
 </td></tr></table>
 </details>
 
+## Portfoliomanagement
+Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/04%20Portfoliomanagement/Fragen%20aus%20Vorlesung.md).
+<details><summary><b>Beispielfrage</b></summary>
+<table><tr><td>
+
+TODO
+</td></tr></table>
+</details>
+
+## Beschaffungsportfoliomanagement
+Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Beschaffungsportfoliomanagement/Fragen%20aus%20Vorlesung.md).
+<details><summary><b>Beispielfrage</b></summary>
+<table><tr><td>
+
+TODO
+</td></tr></table>
+</details>
 
 
-Generiert am Tue Jul 13 21:24:10 UTC 2021
+
+Generiert am Tue Jul 13 21:25:22 UTC 2021
