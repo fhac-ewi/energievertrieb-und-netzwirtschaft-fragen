@@ -683,73 +683,125 @@ Fragen aus der Datei [Fragen aus Vorlesung Strategisch](./Fragenkatalog/05%20Bes
 <details><summary><b>Was ist das grundsätzliche Ziel des Beschaffungsportfoliomanagements?</b></summary>
 <table><tr><td>
 
-TODO
+Das Ziel des Beschaffungsportfoliomanagements ist die Beschaffung von Energie am Großhandelsmarkt unter Berücksichtigung von Chancen, Risiken und Aufwand.
+
+F 11 - 5
 
 </td></tr></table>
 </details>
 <details><summary><b>Erläutern Sie die Hauptaufgaben eines klassischen Energieversorgers.</b></summary>
 <table><tr><td>
 
-TODO
+1. Der Vertrieb verantwortet die Gewinnung und Betreuung von Kunden
+2. Die Absatzmengen werden vom Beschaffungsportfoliomanagement am Markt eingedeckt.
+3. Der Vertrieb führt die Kundenabrechnung durch.
+4. Die Geschäftstätigkeit wird vom Management überwacht, gesteuert und ggf. optimiert.
+
+F 11 - 7
 
 </td></tr></table>
 </details>
 <details><summary><b>Nennen Sie die Aufgabenbereiche einer Beschaffungsorganisation und erläutern Sie diese.</b></summary>
 <table><tr><td>
 
-TODO
+**Strategische Beschaffungsportfoliomanagement**
+- Entwickeln Pläne
+  - Preise
+  - Risikoabsicherung
+  - Abwägung Chancen/Risiken
+
+**Operative Beschaffungsportfoliomanagement**
+- Eindeckung/Handel des Portfolios 
+- Führt die Strategie aus 
+
+F 11 - 8
+TODO?
 
 </td></tr></table>
 </details>
 <details><summary><b>Das Beschaffungsportfoliomanagement wird in ein strategischen und operativen Teil untergliedert. Warum ist das strategische Beschaffungsmanagement so wichtig?</b></summary>
 <table><tr><td>
 
-TODO
+Der strategische Teil entwickelt Pläne unter Berücksichtigung von
+- Preise
+- Risikoabsicherung
+- Abwägung Marktchance (Chancen/Risiken)
+
+Primär stehen Fragen rund um die Beschaffungsstrategie und der Auswahl von Dienstleistern im Vordergrund. 
+Das operative Beschaffungsmanagement führt den Handel auf Basis des strategischen Beschaffungsmanagements aus.
+
+F 11 - 8
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Punkte beinhaltet eine strategische Positionierung am Markt?</b></summary>
 <table><tr><td>
 
-TODO
+- Ressourcensituation
+- Expertise
+- Marktanalyse
+
+Die strategische Positionierung kann mit der SWOT-Analyse abgeleitet werden. (Stärken, Schwächen, Chancen, Risiken)
+
+F 11 - 14
 
 </td></tr></table>
 </details>
-<details><summary><b>Erläutern Sie en Zusammenhang zwischen Treibern der Energiewende Dezentralisierung und Dekarbonisierung und die daraus resultierenden Veränderungen am Energiemarkt.</b></summary>
+<details><summary><b>Erläutern Sie den Zusammenhang zwischen Treibern der Energiewende, Dezentralisierung und Dekarbonisierung und die daraus resultierenden Veränderungen am Energiemarkt.</b></summary>
 <table><tr><td>
 
-TODO
+TODO ???
 
 </td></tr></table>
 </details>
 <details><summary><b>Wie wirkt sich der regionale Markt auf Energieversorgungsunternehmen aus?</b></summary>
 <table><tr><td>
 
-TODO
+TODO ??
 
 </td></tr></table>
 </details>
-<details><summary><b>Welche ziele verfolgt die Make or Buy Strategie?</b></summary>
+<details><summary><b>Welche Ziele verfolgt die Make or Buy Strategie?</b></summary>
 <table><tr><td>
 
-TODO
+Eine Make-or-Buy-Strategie hat die Aufgabe, eine Entscheidung über Eigenfertigung oder Fremdbezug zu fällen.
+
+- Kostensenkung
+- Fokus auf Kernkompetenz
+- Flexibilitätssteigerung
+
+F 11 - 20
 
 </td></tr></table>
 </details>
 <details><summary><b>Erläutern Sie die Kriterien, die bei einer Make or Buy Strategie in einer Beschaffungsorganisation herangezogen werden können.</b></summary>
 <table><tr><td>
 
-TODO
+Der **Operative MoB** verfolgt kurzfristige Kostenvorteile. Der **strategische MoB** verfolgt das Kerngeschäft - also kümmert sich um langfristige Positionierung.
+
+F 11 - 21
+
+Entscheidungskriterien sind
+- Strategie
+- Kosten
+- Funktionale Merkmale
+- Umwelt
 
 </td></tr></table>
 </details>
 <details><summary><b>Welche Dienstleistungen würden Sie in einer Beschaffungsorganisation eines mittelständischen Energieversorgungsunternehmens auslagern und warum? </b></summary>
 <table><tr><td>
 
-TODO
+- (Prognosen)
+- (Marktanalysen und Beratung)
+- Marktzugang
+- BKM
+- Reporting
+
+F 11 - 27
 </td></tr></table>
 </details>
 
 
 
-Generiert am Wed Jul 14 14:04:22 UTC 2021
+Generiert am Wed Jul 14 14:47:44 UTC 2021
