@@ -601,8 +601,78 @@ F 8 - 52 und 59
 </details>
 
 ## Beschaffungsportfoliomanagement
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/05%20Beschaffungsportfoliomanagement/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Beispielfrage</b></summary>
+Fragen aus der Datei [Fragen aus Vorlesung Operativ](./Fragenkatalog/05%20Beschaffungsportfoliomanagement/Fragen%20aus%20Vorlesung%20Operativ.md).
+<details><summary><b>Aus welchen Bestandteilen setzt sich ein Beschaffungsmodell zusammen?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Risiken kennen Sie und wie wirken sich diese auf das Beschaffungsmodell aus?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welcher Art von Kunden würden Sie ein Vollversorgungsmodell empfehlen? </b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist Portfoliomanagement? Welchen Kunden empfehlen Sie den Aufbau eines Portfoliomanagements? Begründen Sie.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Inwiefern lässt sich die Fahrplanlieferung zu einem bestehenden Beschaffungsmodell ergänzen?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Rahmenbedingungen sind notwendig, um ein Portfoliomanagement zu betreiben?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie die mengen- und preisbezogene Komponente einer Beschaffungsstrategie? Welchen Vorteil hat die preisbezogene Komponente?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welcher Zusammenhang besteht zwischen der Beschaffungsstrategie und dem vorherrschenden Markttrend?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Die Zerlegung eines Lastgangs kann mengen- oder wertneutral erfolgen, für welche Methode entscheiden Sie sich und weshalb?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Einflussfaktoren sind zur Entwicklung der Strompreise entscheidend? Wie kommen negative Strompreise zustande?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Was versteht man unter Monitoring und Reporting? Wo ist der Unterschied? Beschreiben Sie, wie Sie einen neuen Handels- bzw. Portfolioreport strukturieren würden. Welche Inhalte sollten in jedem Fall berichtet werden? </b></summary>
 <table><tr><td>
 
 TODO
@@ -611,4 +681,4 @@ TODO
 
 
 
-Generiert am Wed Jul 14 13:06:57 UTC 2021
+Generiert am Wed Jul 14 14:02:53 UTC 2021
