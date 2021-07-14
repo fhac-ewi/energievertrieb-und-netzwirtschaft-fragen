@@ -679,6 +679,77 @@ TODO
 </td></tr></table>
 </details>
 
+Fragen aus der Datei [Fragen aus Vorlesung Strategisch](./Fragenkatalog/05%20Beschaffungsportfoliomanagement/Fragen%20aus%20Vorlesung%20Strategisch.md).
+<details><summary><b>Was ist das grundsätzliche Ziel des Beschaffungsportfoliomanagements?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie die Hauptaufgaben eines klassischen Energieversorgers.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Nennen Sie die Aufgabenbereiche einer Beschaffungsorganisation und erläutern Sie diese.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Das Beschaffungsportfoliomanagement wird in ein strategischen und operativen Teil untergliedert. Warum ist das strategische Beschaffungsmanagement so wichtig?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Punkte beinhaltet eine strategische Positionierung am Markt?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie en Zusammenhang zwischen Treibern der Energiewende Dezentralisierung und Dekarbonisierung und die daraus resultierenden Veränderungen am Energiemarkt.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie wirkt sich der regionale Markt auf Energieversorgungsunternehmen aus?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche ziele verfolgt die Make or Buy Strategie?</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Erläutern Sie die Kriterien, die bei einer Make or Buy Strategie in einer Beschaffungsorganisation herangezogen werden können.</b></summary>
+<table><tr><td>
+
+TODO
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Dienstleistungen würden Sie in einer Beschaffungsorganisation eines mittelständischen Energieversorgungsunternehmens auslagern und warum? </b></summary>
+<table><tr><td>
+
+TODO
+</td></tr></table>
+</details>
 
 
-Generiert am Wed Jul 14 14:02:53 UTC 2021
+
+Generiert am Wed Jul 14 14:04:22 UTC 2021
