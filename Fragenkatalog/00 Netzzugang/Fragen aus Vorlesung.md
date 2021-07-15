@@ -76,7 +76,7 @@ F 1 - 14
   - erweitertes Berichtswesen
 
 #  Welche Folgen kann es haben, wenn ein Differenzbilanzkreis systematisch große Fehlmengen aufweist und nicht bewirtschaftet wird? 
-**Differenzbilanzkreis** sind Netzbetreiber mit über 100.000 Kunden.
+**Differenzbilanzkreis** ist ein nicht ausgeglichener Bilanzkeis.
 Wenn der nicht richtig bewirtschaftet wird, kann das folgende Folgen haben:
 - Instabilität der Netzfrequenz
 - Mehr Regelenergie
