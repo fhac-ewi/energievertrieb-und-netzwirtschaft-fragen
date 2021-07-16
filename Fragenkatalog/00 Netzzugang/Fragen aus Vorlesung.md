@@ -141,3 +141,6 @@ BNetzA hat viele dumme Einfälle. Beispiel Lieferscheine. Mehrarbeit Viel, Mehrw
 
 # Welche Herausforderungen begegnet die Marktkommunikation in Zukunft?
 Mako 2020 - oder mittlerweile eher Mako 2030. 
+
+Hmm womöglich
+- Smart Meter - deutlich mehr Messwerte. Wo bisher 1x pro Jahr abgelesen wurde jetzt in 15 Minuten
