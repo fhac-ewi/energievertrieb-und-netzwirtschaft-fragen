@@ -62,6 +62,12 @@ F 1 - 18
 <details><summary><b>Was ist ein Bilanzkreis?</b></summary>
 <table><tr><td>
 
+Antwort nach Borchert:
+- Ein Energiekonto
+- Marktlokationen (Einspeisung und Entnahme) wird diesem zugeordnet
+- Ziel: Einspeisung = Entnahme (bilanzieller Ausgleich durch Handelsgeschäfte)
+
+Antwort nach Folien
 - Virtuelles Versorgungsgebiet
 - Bündelung von Einspeisung und Abnehmer
 - Das für den Bilanzkreis verantwortliche Unternehmen wird Bilanzkreisverantwortlicher genannt.
@@ -804,4 +810,4 @@ F 11 - 27
 
 
 
-Generiert am Thu Jul 15 08:24:03 UTC 2021
+Generiert am Fri Jul 16 06:50:29 UTC 2021
