@@ -425,6 +425,14 @@ Fragen aus der Datei [Fragen aus der Vorlesung](./Fragenkatalog/03%20Energievert
 <details><summary><b>Welche Eigenschaften haben die Energielieferprodukte? Gehen Sie auf Mengen- und Preisstrukturen in den Lieferverträgen ein.</b></summary>
 <table><tr><td>
 
+**Presistrukturen**
+- Festpreise
+- Indexorientierte Preise (Preis ist an Sportpreis oder Terminpreis gekoppelt)
+
+**Mengenstrukturen**
+- Lastabweichungen erlaubt (standardfall, es wurde kein Lastgang vereinbart)
+- Lastabweichungen nicht erlaubt (Vertraglich vereinbarter Lastgang - Kunde muss sich daran halten, sonst gibt es Strafen)
+- Lastabweichungen teilweise erlaubt (Vertraglich vereinbarter Lastgang, mit Toleranzband sind Abweichungen erlaubt)
 
 F 6 - 14 und 16
 
@@ -842,4 +850,4 @@ F 11 - 27
 
 
 
-Generiert am Fri Jul 16 07:34:38 UTC 2021
+Generiert am Fri Jul 16 08:34:13 UTC 2021
