@@ -1,4 +1,12 @@
 # Welche Eigenschaften haben die Energielieferprodukte? Gehen Sie auf Mengen- und Preisstrukturen in den Lieferverträgen ein.
+**Presistrukturen**
+- Festpreise
+- Indexorientierte Preise (Preis ist an Sportpreis oder Terminpreis gekoppelt)
+
+**Mengenstrukturen**
+- Lastabweichungen erlaubt (standardfall, es wurde kein Lastgang vereinbart)
+- Lastabweichungen nicht erlaubt (Vertraglich vereinbarter Lastgang - Kunde muss sich daran halten, sonst gibt es Strafen)
+- Lastabweichungen teilweise erlaubt (Vertraglich vereinbarter Lastgang, mit Toleranzband sind Abweichungen erlaubt)
 
 F 6 - 14 und 16
 
