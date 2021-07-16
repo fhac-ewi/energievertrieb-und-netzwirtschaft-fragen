@@ -111,11 +111,14 @@ F 1 - 14
 <details><summary><b>Welche Folgen kann es haben, wenn ein Differenzbilanzkreis systematisch große Fehlmengen aufweist und nicht bewirtschaftet wird? </b></summary>
 <table><tr><td>
 
-**Differenzbilanzkreis** ist ein nicht ausgeglichener Bilanzkeis.
+**Differenzbilanzkreise** werden von Netzbetreibern geführt und bewirtschaftet. Sie beinhalten die Fehlmengen zwischen Prognose und Verbrauch von mit SLP bilanzierten Kunden für alle 15 Minuten. Der Netzbetreiber kann anhand dessen seine SLP anpassen.
+
 Wenn der nicht richtig bewirtschaftet wird, kann das folgende Folgen haben:
 - Instabilität der Netzfrequenz
 - Mehr Regelenergie
 - Bezahlen von Bußgeldern
+
+F 1 - 45
 
 </td></tr></table>
 </details>
@@ -810,4 +813,4 @@ F 11 - 27
 
 
 
-Generiert am Fri Jul 16 06:50:29 UTC 2021
+Generiert am Fri Jul 16 07:00:10 UTC 2021
