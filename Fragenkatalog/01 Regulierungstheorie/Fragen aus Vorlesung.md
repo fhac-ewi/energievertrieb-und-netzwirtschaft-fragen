@@ -42,4 +42,6 @@ Bestandteile sind alle Kosten, die das Unternehmen hat + Boni für besonders wir
 - **inoffizielle Korrekturen**
   - außergerichtliche Vergleiche  
 
+F 1 - 32
+
 TODO So ok?
