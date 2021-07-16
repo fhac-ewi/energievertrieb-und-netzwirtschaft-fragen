@@ -214,6 +214,9 @@ BNetzA hat viele dumme Einfälle. Beispiel Lieferscheine. Mehrarbeit Viel, Mehrw
 <table><tr><td>
 
 Mako 2020 - oder mittlerweile eher Mako 2030. 
+
+Hmm womöglich
+- Smart Meter - deutlich mehr Messwerte. Wo bisher 1x pro Jahr abgelesen wurde jetzt in 15 Minuten
 </td></tr></table>
 </details>
 
@@ -813,4 +816,4 @@ F 11 - 27
 
 
 
-Generiert am Fri Jul 16 07:00:10 UTC 2021
+Generiert am Fri Jul 16 07:23:23 UTC 2021
