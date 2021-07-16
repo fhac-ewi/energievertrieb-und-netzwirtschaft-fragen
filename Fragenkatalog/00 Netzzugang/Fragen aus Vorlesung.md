@@ -11,6 +11,7 @@ F 1 - 6
 Ziel ist die Trennung des Netzes vom Vertrieb.
 
 | Unbundlingform | Größe |
+| --------------- | ------ |
 | Buchhalterisch | jedes EVU |
 | Informatoisch | jedes EVU |
 | Organisatorisch | jedes EVU |
